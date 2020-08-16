@@ -11,11 +11,13 @@ Configuration for MASM Visual Studios project and Irvine32
     Linker-Input: Additional dependencies: Irvine32.lib;\
     Linker-System: Subsystem - Console\
 5.  Add item, C++ file, name it as main.asm.	
-6.  Include Path c:\Irvine for ASM file:   properties- Microsoft Macro Assembler-General: Include Paths - c:\Irvine
+6.  Include Path c:\Irvine for ASM file:   properties- Microsoft Macro Assembler-General: Include Paths - c:\Irvine\
+
 
 
 
 Credits:
+--------
 
 Assembly Language for x86 Processors, Sixth Edition.
 
