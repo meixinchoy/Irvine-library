@@ -1,8 +1,8 @@
 # Irvine-library
 Irvine library for assembly language. Posting it here as the Irvine website is not working anymore (as of aug 2020)
 
-Visual Studios Configuration
-----------------------------
+Configuration for MASM Visual Studios project and Irvine32
+-------------------------------------------------------------
 1.  extract the zip file to your C drive
 2.  Create C++ empty project.
 3.  Right-click project file name - Build dependencies - build customization- Check masm
@@ -12,7 +12,6 @@ Visual Studios Configuration
     Linker-System: Subsystem - Console\
 5.  Add item, C++ file, name it as main.asm.	
 6.  Include Path c:\Irvine for ASM file:   properties- Microsoft Macro Assembler-General: Include Paths - c:\Irvine
-
 \
 \
 \
