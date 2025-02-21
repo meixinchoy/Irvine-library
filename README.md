@@ -1,7 +1,7 @@
 # Irvine-library
 Irvine library for assembly language. Posting it here since the Irvine website is not working anymore (as of aug 2020)
 
-EDIT: the website works now. pleaae see: https://www.asmirvine.com/
+# EDIT: the website works now. please see: https://www.asmirvine.com/
 
 Configuration for MASM Visual Studios project and Irvine32
 -------------------------------------------------------------
