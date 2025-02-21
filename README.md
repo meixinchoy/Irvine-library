@@ -1,6 +1,8 @@
 # Irvine-library
 Irvine library for assembly language. Posting it here since the Irvine website is not working anymore (as of aug 2020)
 
+EDIT: the website works now. pleaae see: https://www.asmirvine.com/
+
 Configuration for MASM Visual Studios project and Irvine32
 -------------------------------------------------------------
 1.  extract the zip file to your C drive
@@ -18,6 +20,8 @@ Configuration for MASM Visual Studios project and Irvine32
 
 Credits:
 --------
+
+I do not own this library. all credits goes to the author:
 
 Assembly Language for x86 Processors, Sixth Edition.
 
